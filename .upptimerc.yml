@@ -5,9 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: pololer
     url: https://pololer.yurasu.xyz/
-    expectedStatusCodes:
-      - 304
-      - 403
   - name: DDL pololer
     url: $DDLPOLOLERWEB
   - name: RDP pololer
