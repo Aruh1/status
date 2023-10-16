@@ -9,6 +9,7 @@ sites:
     url: $DDLPOLOLERWEB
   - name: RDP pololer
     url: $RDPPOLOLER
+    __dangerous__disable_verify_host: true
   - name: Pekmen
     url: https://pekmen.my.id/
   - name: Cloudflare 1.1.1.1
