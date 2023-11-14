@@ -8,8 +8,7 @@ sites:
   - name: DDL pololer
     url: $DDLPOLOLERWEB
   - name: RDP pololer
-    url: $RDPPOLOLER
-    __dangerous__insecure: true
+    url: https://we.yurasu.xyz/jellyfin/
   - name: Pekmen
     url: https://pekmen.my.id/
   - name: Cloudflare 1.1.1.1
