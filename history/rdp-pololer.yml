@@ -1,7 +1,7 @@
-url: $RDPPOLOLER
-status: down
-code: 401
-responseTime: 92
-lastUpdated: 2023-11-13T23:11:35.281Z
+url: https://we.yurasu.xyz/jellyfin/
+status: up
+code: 200
+responseTime: 414
+lastUpdated: 2023-11-14T09:18:06.259Z
 startTime: 2023-09-23T17:29:46.920Z
 generator: Upptime <https://github.com/upptime/upptime>
