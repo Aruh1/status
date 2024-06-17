@@ -1,7 +1,7 @@
 url: https://we.yurasu.xyz/jellyfin/
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-16T23:15:07.631Z
+code: 403
+responseTime: 158
+lastUpdated: 2024-06-17T23:13:33.958Z
 startTime: 2023-09-23T17:29:46.920Z
 generator: Upptime <https://github.com/upptime/upptime>
