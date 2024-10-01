@@ -18,7 +18,7 @@ sites:
 
 status-website:
   cname: status.pololer.my.id
-  logoUrl: https://azusa.kysdm.com/
+  logoUrl: https://azusa.kysdm.com/profile2.svg
   name: pololer-project
   theme: dark
   favicon: https://ptpimg.me/animated_favicon.gif
