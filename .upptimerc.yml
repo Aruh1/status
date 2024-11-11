@@ -4,13 +4,14 @@ repo: status # The name of this repository
 
 sites:
   - name: pololer
+    check: "tcp-ping"
     url: https://pololer.yurasu.xyz/
   - name: DDL pololer
-    url: $DDLPOLOLERWEB
-  - name: RDP pololer
-    url: https://we.yurasu.xyz/jellyfin/
-  - name: Pekmen
-    url: https://pekmen.my.id/
+    check: "tcp-ping"
+    url: https://www.pololer.web.id/0:/
+  - name: Embedded Video
+    check: "tcp-ping"
+    url: https://v.pololer.web.id/
   - name: Cloudflare 1.1.1.1
     check: "tcp-ping"
     url: 1.1.1.1
