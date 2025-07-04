@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pololer.yurasu.xyz.ico",
     "slug": "pololer",
     "status": "down",
-    "uptime": "56.35%",
+    "uptime": "56.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.57%",
+    "uptimeYear": "22.29%",
     "time": 170,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-07-03": 65,
+      "2025-07-04": 64,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -317,9 +318,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 300,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-07-03": 65,
+      "2025-07-04": 64,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -682,8 +684,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -703,7 +704,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 65,
+      "2025-07-04": 64,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -952,8 +954,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 5,
+    "timeDay": 3,
+    "timeWeek": 3,
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {}
